@@ -6,8 +6,8 @@
   "scripts": {
   "dev": "vite",
   "build": "vite build",
-  "start": "vite preview"
-},
+  "start": "vite preview --host"
+}
   "devDependencies": {
     "typescript": "~5.7.2",
     "vite": "^6.2.0"
